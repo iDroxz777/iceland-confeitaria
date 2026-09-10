@@ -1,0 +1,768 @@
+[
+  {
+    "id": "bolo-abacaxi",
+    "name": "Bolo Abacaxi",
+    "category": "Bolos",
+    "description": "Pão de ló branco recheado com doce de abacaxi e creme branco, coberto com marshmallow.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloAbacaxi5-300x300.jpg",
+    "priceCents": 7500,
+    "unit": "kg",
+    "tags": [
+      "Refrescante"
+    ],
+    "fillings": [
+      "Doce de abacaxi com creme branco"
+    ]
+  },
+  {
+    "id": "bolo-abacaxi-coco",
+    "name": "Bolo Abacaxi Coco",
+    "category": "Bolos",
+    "description": "Combinação tropical de abacaxi e coco em cobertura cremosa.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloAbacaxiCoco4-300x300.jpg",
+    "priceCents": 8800,
+    "unit": "kg",
+    "tags": [
+      "Refrescante"
+    ],
+    "fillings": [
+      "Abacaxi com coco cremoso"
+    ]
+  },
+  {
+    "id": "bolo-ameixa-coco",
+    "name": "Bolo Ameixa Coco Creme",
+    "category": "Bolos",
+    "description": "Pão de ló branco recheado com beijinho e doce de leite com ameixas, com leve mousse de creme de leite, coberto com marshmallow.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloAmeixaCoco3-300x300.jpg",
+    "priceCents": 7700,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Beijinho com doce de leite e ameixas"
+    ]
+  },
+  {
+    "id": "bolo-ameixa-creme",
+    "name": "Bolo Ameixa Creme",
+    "category": "Bolos",
+    "description": "Pão de ló branco com recheio de doce de leite e ameixas e mousse de creme de leite, coberto com marshmallow.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloAmeixa3-300x300.jpg",
+    "priceCents": 7700,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Doce de leite com ameixas"
+    ]
+  },
+  {
+    "id": "bolo-ameixa-nozes",
+    "name": "Bolo Ameixa Nozes Creme",
+    "category": "Bolos",
+    "description": "Pão de ló branco com doce de leite e ameixas, mousse de creme de leite e nozes crocantes, coberto com marshmallow.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloAmeixaNozes3-300x300.jpg",
+    "priceCents": 8500,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Ameixa com nozes e creme"
+    ]
+  },
+  {
+    "id": "bolo-brigadeiro",
+    "name": "Bolo Brigadeiro",
+    "category": "Bolos",
+    "description": "Pão de ló de chocolate recheado com brigadeiro cremoso, envolvido em creme danette.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloBrigadeiro3-300x300.jpg",
+    "priceCents": 7000,
+    "unit": "kg",
+    "tags": [
+      "Mais pedido"
+    ],
+    "fillings": [
+      "Brigadeiro cremoso"
+    ]
+  },
+  {
+    "id": "bolo-brigadeiro-morango",
+    "name": "Bolo Brigadeiro Morango",
+    "category": "Bolos",
+    "description": "Pão de ló de chocolate com creme branco, brigadeiro cremoso e morangos frescos, envolto em creme danette.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloBrigadeiroMorango-300x300.jpg",
+    "priceCents": 7900,
+    "unit": "kg",
+    "tags": [
+      "Mais pedido"
+    ],
+    "fillings": [
+      "Brigadeiro com morango"
+    ]
+  },
+  {
+    "id": "bolo-casadinho",
+    "name": "Bolo Casadinho",
+    "category": "Bolos",
+    "description": "Duas massas em harmonia — tradicional escolha para celebrações a dois.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloCasadinho3-300x300.jpg",
+    "priceCents": 7900,
+    "unit": "kg",
+    "tags": [
+      "Clássico"
+    ],
+    "fillings": [
+      "Recheio cremoso entre as duas massas"
+    ]
+  },
+  {
+    "id": "bolo-crocante",
+    "name": "Bolo Crocante",
+    "category": "Bolos",
+    "description": "Pão de ló branco e chocolate com creme branco, mousse de chocolate e crocante de amendoim, coberto com marshmallow.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloCrocante4-300x300.jpg",
+    "priceCents": 8000,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Mousse de chocolate com crocante de amendoim"
+    ]
+  },
+  {
+    "id": "bolo-damasco-castanha",
+    "name": "Bolo Damasco e Castanha",
+    "category": "Bolos",
+    "description": "Damasco e castanhas em receita sofisticada, ideal para ocasiões especiais.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloMamae3-300x300.jpg",
+    "priceCents": 12700,
+    "unit": "kg",
+    "tags": [
+      "Premium"
+    ],
+    "fillings": [
+      "Damasco com castanhas"
+    ]
+  },
+  {
+    "id": "bolo-danette",
+    "name": "Bolo Danette",
+    "category": "Bolos",
+    "description": "Massa de chocolate com recheio cremoso estilo danette.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloDanette3-300x300.jpg",
+    "priceCents": 7000,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Danette de chocolate"
+    ]
+  },
+  {
+    "id": "bolo-danette-ninho",
+    "name": "Bolo Danette Ninho",
+    "category": "Bolos",
+    "description": "Massa de chocolate com creme danette no recheio e cobertura, e mousse de leite ninho.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloDanetteNinho-300x300.jpg",
+    "priceCents": 7400,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Danette com mousse de leite ninho"
+    ]
+  },
+  {
+    "id": "bolo-mousse-de-chocolate",
+    "name": "Bolo Mousse Chocolate",
+    "category": "Bolos",
+    "description": "Pão de ló de chocolate super macio recheado com mousse de chocolate ao leite, finalizado com raspas de chocolate ao leite.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloMousseDeChocolte-300x300.jpg",
+    "priceCents": 11100,
+    "unit": "kg",
+    "tags": [
+      "Mais amado"
+    ],
+    "fillings": [
+      "Mousse de chocolate ao leite"
+    ]
+  },
+  {
+    "id": "bolo-floresta-negra",
+    "name": "Bolo Floresta Negra",
+    "category": "Bolos",
+    "description": "Pão de ló de chocolate com chantilly das nuvens e cereja em calda, finalizado com raspas de chocolate ao leite.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/FlorestaNegra-1-300x300.jpg",
+    "priceCents": 13400,
+    "unit": "kg",
+    "tags": [
+      "Premium"
+    ],
+    "fillings": [
+      "Chantilly com cereja em calda"
+    ]
+  },
+  {
+    "id": "bolo-moca-morango",
+    "name": "Bolo Moça Morango",
+    "category": "Bolos",
+    "description": "Pão de ló branco com recheio de leite condensado e mousse de creme de leite, morangos frescos e chantilly.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/BoloMocaMorango3-300x300.jpg",
+    "priceCents": 9100,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Leite condensado com morango e chantilly"
+    ]
+  },
+  {
+    "id": "merengue-morango",
+    "name": "Merengue Morango",
+    "category": "Bolos",
+    "description": "Suspiros crocantes por fora e macios por dentro, com morangos frescos e chantilly, coberto com chantilly.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/Merengue3-300x300.jpg",
+    "priceCents": 12400,
+    "unit": "kg",
+    "tags": [
+      "Premium"
+    ],
+    "fillings": [
+      "Suspiro com morango e chantilly"
+    ]
+  },
+  {
+    "id": "bolo-mousse-de-chocolate-com-morango",
+    "name": "Bolo Mousse de Chocolate com Morango",
+    "category": "Bolos",
+    "description": "Pão de ló de chocolate recheado com mousse de chocolate ao leite e morangos da fazenda, com raspas de chocolate ao leite.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloMousseMorango4-300x300.jpg",
+    "priceCents": 11200,
+    "unit": "kg",
+    "tags": [
+      "Mais amado"
+    ],
+    "fillings": [
+      "Mousse de chocolate com morango"
+    ]
+  },
+  {
+    "id": "bolo-ninho-nozes",
+    "name": "Bolo Ninho Nozes",
+    "category": "Bolos",
+    "description": "Pão de ló branco com mousse de leite ninho e generosas porções de nozes crocantes.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloNinhoNozes4-300x300.jpg",
+    "priceCents": 9900,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Mousse de leite ninho com nozes"
+    ]
+  },
+  {
+    "id": "bolo-ninho-abacaxi",
+    "name": "Bolo Ninho Abacaxi",
+    "category": "Bolos",
+    "description": "Pão de ló branco com mousse de leite ninho e doce de abacaxi, finalizado com raspas de chocolate branco.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloNinhoAbacaxi3-300x300.jpg",
+    "priceCents": 9900,
+    "unit": "kg",
+    "tags": [
+      "Refrescante"
+    ],
+    "fillings": [
+      "Mousse de leite ninho com abacaxi"
+    ]
+  },
+  {
+    "id": "bolo-morango",
+    "name": "Bolo Morango",
+    "category": "Bolos",
+    "description": "Pão de ló branco super macio com creme branco delicado e morangos frescos, coberto com marshmallow.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloMorango2-300x300.jpg",
+    "priceCents": 7700,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Creme branco com morango"
+    ]
+  },
+  {
+    "id": "bolo-ninho",
+    "name": "Bolo Ninho",
+    "category": "Bolos",
+    "description": "Pão de ló branco com mousse de leite ninho, finalizado com raspas de chocolate branco.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloLeiteNinho-300x300.jpg",
+    "priceCents": 9600,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Mousse de leite ninho"
+    ]
+  },
+  {
+    "id": "bolo-prestigio",
+    "name": "Bolo Prestígio",
+    "category": "Bolos",
+    "description": "Pão de ló de chocolate com brigadeiro e doce de coco, envolvido em creme danette.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloPrestigio3-300x300.jpg",
+    "priceCents": 7000,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Brigadeiro com doce de coco"
+    ]
+  },
+  {
+    "id": "bolo-kinder-ovo",
+    "name": "Bolo Kinder Ovo",
+    "category": "Bolos",
+    "description": "Pão de ló de chocolate super macio, recheado com brigadeiro e uma camada generosa de mousse de leite ninho.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloKinder3-300x300.jpg",
+    "priceCents": 9800,
+    "unit": "kg",
+    "tags": [
+      "Mais pedido"
+    ],
+    "fillings": [
+      "Brigadeiro com mousse de leite ninho"
+    ]
+  },
+  {
+    "id": "bolo-nozes",
+    "name": "Bolo Nozes",
+    "category": "Bolos",
+    "description": "Pão de ló branco leve com creme branco aveludado e nozes crocantes, coberto com marshmallow.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloNozes-300x300.jpg",
+    "priceCents": 7500,
+    "unit": "kg",
+    "tags": [
+      "Clássico"
+    ],
+    "fillings": [
+      "Creme branco com nozes"
+    ]
+  },
+  {
+    "id": "bolo-marta-rocha",
+    "name": "Bolo Marta Rocha",
+    "category": "Bolos",
+    "description": "Pão de ló branco e de chocolate com suspiro crocante, creme branco, doce de damasco, mousse de chocolate, chantilly e crocante de amendoim.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloMartaRocha2-300x300.jpg",
+    "priceCents": 9600,
+    "unit": "kg",
+    "tags": [
+      "Premium"
+    ],
+    "fillings": [
+      "Damasco com mousse de chocolate e suspiro"
+    ]
+  },
+  {
+    "id": "bolo-sem-preconceito",
+    "name": "Bolo Sem Preconceito",
+    "category": "Bolos",
+    "description": "Massa branca e de chocolate recheada com camadas de mousse de chocolate e mousse de leite ninho, com raspas de chocolate branco e ao leite.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloSemPreconceito3-300x300.jpg",
+    "priceCents": 10500,
+    "unit": "kg",
+    "tags": [
+      "Premium"
+    ],
+    "fillings": [
+      "Mousse de chocolate com mousse de ninho"
+    ]
+  },
+  {
+    "id": "bolo-olho-de-sogra",
+    "name": "Bolo Olho de Sogra",
+    "category": "Bolos",
+    "description": "Pão de ló branco recheado com o tradicional doce olho de sogra (ameixa e coco), coberto com marshmallow.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/BoloAmeixa_X-300x300.jpg",
+    "priceCents": 7600,
+    "unit": "kg",
+    "tags": [
+      "Clássico"
+    ],
+    "fillings": [
+      "Olho de sogra (ameixa e coco)"
+    ]
+  },
+  {
+    "id": "bolo-ninho-morango",
+    "name": "Bolo Ninho Morango",
+    "category": "Bolos",
+    "description": "Pão de ló branco com mousse de leite ninho e morangos frescos.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloNinhoMorango3-300x300.jpg",
+    "priceCents": 9900,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Mousse de leite ninho com morango"
+    ]
+  },
+  {
+    "id": "bolo-dois-amores",
+    "name": "Bolo Dois Amores",
+    "category": "Bolos",
+    "description": "Pão de ló branco e chocolate com brigadeiro e beijinho, envolvido em creme danette.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloDoisAmores3-300x300.jpg",
+    "priceCents": 7400,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Brigadeiro com beijinho"
+    ]
+  },
+  {
+    "id": "bolo-merengue-morango",
+    "name": "Bolo Merengue Morango",
+    "category": "Bolos",
+    "description": "Pão de ló branco com suspiros crocantes, creme branco e morangos frescos, coberto com chantilly.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloMerengueMorango2-300x300.jpg",
+    "priceCents": 8600,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Suspiro com creme branco e morango"
+    ]
+  },
+  {
+    "id": "bolo-tentacao",
+    "name": "Bolo Tentação",
+    "category": "Bolos",
+    "description": "Pão de ló branco com morangos frescos e doce de leite, envolto em chantilly e crocante de amendoim.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloTentacao3-300x300.jpg",
+    "priceCents": 8600,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Doce de leite com morango e crocante"
+    ]
+  },
+  {
+    "id": "bolo-mousse-de-chocolate-com-nozes-e-damasco",
+    "name": "Bolo Mousse de Chocolate com Nozes e Damasco",
+    "category": "Bolos",
+    "description": "Pão de ló de chocolate com mousse de chocolate, doce de damasco e nozes.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloMousseNozes3-300x300.jpg",
+    "priceCents": 11800,
+    "unit": "kg",
+    "tags": [
+      "Premium"
+    ],
+    "fillings": [
+      "Mousse de chocolate com damasco e nozes"
+    ]
+  },
+  {
+    "id": "bolo-mesclado",
+    "name": "Bolo Mesclado",
+    "category": "Bolos",
+    "description": "Pão de ló branco super macio com recheio nuvem de creme branco, coberto com marshmallow.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloMesclado4-300x300.jpg",
+    "priceCents": 6800,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Creme branco (recheio nuvem)"
+    ]
+  },
+  {
+    "id": "bolo-folhado-morango",
+    "name": "Bolo Folhado Morango",
+    "category": "Bolos",
+    "description": "Camadas de pão de ló branco e massa folhada com creme branco e morangos frescos, coberto com chantilly.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloFolhadoMorango3-300x300.jpg",
+    "priceCents": 9000,
+    "unit": "kg",
+    "tags": [
+      "Premium"
+    ],
+    "fillings": [
+      "Creme branco com morango entre camadas folhadas"
+    ]
+  },
+  {
+    "id": "bolo-folhado-pistache",
+    "name": "Bolo Folhado Pistache",
+    "category": "Bolos",
+    "description": "Pão de ló branco com massa mil-folhas, brigadeiro de pistache e mousse de creme de leite, coberto com chantilly.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/BoloFolhadoPistache3-300x300.jpg",
+    "priceCents": 14800,
+    "unit": "kg",
+    "tags": [
+      "Premium"
+    ],
+    "fillings": [
+      "Brigadeiro de pistache com mousse de creme de leite"
+    ]
+  },
+  {
+    "id": "bolo-moca-nozes",
+    "name": "Bolo Moça Nozes",
+    "category": "Bolos",
+    "description": "Pão de ló branco com recheio de leite condensado e nozes crocantes, mousse de creme de leite e chantilly.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloMocaNozes3-300x300.jpg",
+    "priceCents": 9700,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Leite condensado com nozes"
+    ]
+  },
+  {
+    "id": "bolo-red-velvet",
+    "name": "Bolo Red Velvet",
+    "category": "Bolos",
+    "description": "Pão de ló vermelho com doce de frutas do bosque e mousse de leite ninho, coberto com chantilly.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloRedVelvet4-300x300.jpg",
+    "priceCents": 10500,
+    "unit": "kg",
+    "tags": [
+      "Clássico"
+    ],
+    "fillings": [
+      "Frutas do bosque com mousse de leite ninho"
+    ]
+  },
+  {
+    "id": "torta-banoffe",
+    "name": "Torta Banoffe",
+    "category": "Tortas",
+    "description": "Base crocante, doce de leite cremoso, bananas fresquinhas e uma generosa camada de chantilly leve.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/TortaBanoffe3-300x300.jpg",
+    "priceCents": 8900,
+    "unit": "kg",
+    "tags": [],
+    "fillings": [
+      "Doce de leite com banana e chantilly"
+    ]
+  },
+  {
+    "id": "torta-cheesecake-frutas-bosque",
+    "name": "Torta Cheesecake Frutas do Bosque",
+    "category": "Tortas",
+    "description": "Cheesecake cremoso coberto com calda de frutas vermelhas selecionadas.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/TortaCheeseCakeFrutasDoBosque3-300x300.jpg",
+    "priceCents": 12000,
+    "unit": "kg",
+    "tags": [
+      "Premium"
+    ],
+    "fillings": [
+      "Cheesecake com frutas vermelhas"
+    ]
+  },
+  {
+    "id": "torta-limao",
+    "name": "Torta de Limão",
+    "category": "Tortas",
+    "description": "Base crocante, creme de limão e merengue — leve e refrescante.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/TortaLimao3-300x300.jpg",
+    "priceCents": 9200,
+    "unit": "kg",
+    "tags": [
+      "Refrescante"
+    ],
+    "fillings": [
+      "Creme de limão com merengue"
+    ]
+  },
+  {
+    "id": "torta-mil-folhas-morango",
+    "name": "Torta Mil Folhas de Morango",
+    "category": "Tortas",
+    "description": "Camadas de massa folhada, creme e morangos frescos.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/TortaMilFolhas3-300x300.jpg",
+    "priceCents": 11300,
+    "unit": "kg",
+    "tags": [
+      "Premium"
+    ],
+    "fillings": [
+      "Creme com morango entre as camadas"
+    ]
+  },
+  {
+    "id": "item-1-bolo-caseiro-cuca-banana-ou-maca",
+    "name": "Bolo Caseiro Cuca Banana ou Maçã",
+    "category": "Bolos Caseiros",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/CucaMacaOuBanana-300x300.jpg",
+    "priceCents": 3700,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-2-bolo-caseiro-de-cenoura-com-cobertura-de-brigadeiro",
+    "name": "Bolo Caseiro de Cenoura com Cobertura de Brigadeiro",
+    "category": "Bolos Caseiros",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/CaseiroCenouraComCobertura-300x300.jpg",
+    "priceCents": 4700,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-3-bolo-caseiro-de-laranja-com-calda",
+    "name": "Bolo Caseiro de Laranja com Calda",
+    "category": "Bolos Caseiros",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/BoloLaranjaCaseiro2-300x300.jpg",
+    "priceCents": 4700,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-4-bolo-caseiro-marmore-com-brigadeiro-e-creme-de-leite-condensado",
+    "name": "Bolo Caseiro Mármore com Brigadeiro e Creme de Leite Condensado",
+    "category": "Bolos Caseiros",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/CaseiroMarmore2-300x300.jpg",
+    "priceCents": 4700,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-5-bolos-caseiros-sem-cobertura",
+    "name": "Bolos Caseiros Sem Cobertura",
+    "category": "Bolos Caseiros",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/BoloCaseiro2-300x300.jpg",
+    "priceCents": 3000,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-6-bala-gelada-de-coco",
+    "name": "Bala Gelada de Coco",
+    "category": "Docinhos e Sobremesas",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/BalaCocoGelada-300x300.jpg",
+    "priceCents": 2400,
+    "unit": "cento",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-7-bolos-gelados",
+    "name": "Bolos Gelados",
+    "category": "Docinhos e Sobremesas",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/BoloGeladoBrigadeiro-300x300.jpg",
+    "priceCents": null,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-8-caixa-de-bolachas-nata-canela-ou-goiabada",
+    "name": "Caixa de Bolachas (Nata, Canela ou Goiabada)",
+    "category": "Docinhos e Sobremesas",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/Bolachas-300x300.jpg",
+    "priceCents": 2500,
+    "unit": "caixa",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-9-caixinha-de-doces",
+    "name": "Caixinha de Doces",
+    "category": "Docinhos e Sobremesas",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/CaixaDocinhos-300x300.png",
+    "priceCents": null,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-10-docinhos-cento",
+    "name": "Docinhos (Cento)",
+    "category": "Docinhos e Sobremesas",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/Docinhos-300x300.jpg",
+    "priceCents": null,
+    "unit": "cento",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-11-mini-merengue-de-morango",
+    "name": "Mini Merengue de Morango",
+    "category": "Docinhos e Sobremesas",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/05/MiniMerengueMorango-300x300.jpg",
+    "priceCents": 2600,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-12-mini-pote-mousse-chocolate-ou-ninho",
+    "name": "Mini Pote Mousse Chocolate ou Ninho",
+    "category": "Docinhos e Sobremesas",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/MiniPoteMousse-300x300.jpg",
+    "priceCents": 1800,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-13-fatias-de-bolos",
+    "name": "Fatias de Bolos",
+    "category": "Consumo na Unidade",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/06/BoloRedVelvet3-300x300.jpg",
+    "priceCents": 2100,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-14-croissant",
+    "name": "Croissant",
+    "category": "Consumo na Unidade",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2025/07/croissant2-300x300.png",
+    "priceCents": 2200,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-15-pao-de-queijo-tradicional-2-und",
+    "name": "Pão de Queijo Tradicional (2 und)",
+    "category": "Consumo na Unidade",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2024/12/paodequeijo-300x300.png",
+    "priceCents": 800,
+    "unit": "combo",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-16-bebidas-geladas",
+    "name": "Bebidas Geladas",
+    "category": "Consumo na Unidade",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/bebidas_geladas-300x300.png",
+    "priceCents": null,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  },
+  {
+    "id": "item-17-bebidas-quentes",
+    "name": "Bebidas Quentes",
+    "category": "Consumo na Unidade",
+    "description": "Consulte disponibilidade e opções com nossa equipe.",
+    "image": "https://confeitariaiceland.com.br/wp-content/uploads/2023/11/bebidas_quentes2-300x300.png",
+    "priceCents": null,
+    "unit": "unidade",
+    "tags": [],
+    "fillings": []
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "iceland-platform",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @iceland/web",
+    "dev:web": "npm run dev --workspace @iceland/web",
+    "dev:api": "npm run dev --workspace @iceland/api",
+    "build": "npm run build --workspace @iceland/web && npm run build --workspace @iceland/api && node scripts/prepare-static.mjs",
+    "test": "npm run test --workspaces --if-present",
+    "lint": "npm run lint --workspaces --if-present"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
