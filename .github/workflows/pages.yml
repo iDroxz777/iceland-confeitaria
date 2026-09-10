@@ -5,6 +5,7 @@ on:
   push:
     branches: [main]
     paths:
+      - ".github/workflows/pages.yml"
       - "apps/web/**"
       - "package.json"
       - "package-lock.json"
@@ -33,7 +34,7 @@ jobs:
       - run: npm ci
       - run: npm run build --workspace @iceland/web
         env:
-          VITE_BASE_PATH: /iceland/
+          VITE_BASE_PATH: /iceland-confeitaria/
           VITE_WHATSAPP_NUMBER: ${{ vars.WHATSAPP_NUMBER }}
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
