@@ -1,6 +1,12 @@
 # Iceland — plataforma digital da confeitaria
 
+[![Quality checks](https://github.com/iDroxz777/iceland-confeitaria/actions/workflows/ci.yml/badge.svg)](https://github.com/iDroxz777/iceland-confeitaria/actions/workflows/ci.yml)
+
 Aplicação para apresentar o cardápio, estimar tamanhos e preparar pedidos para atendimento no WhatsApp. O projeto foi organizado como um monorepo para manter a experiência do cliente separada das regras comerciais.
+
+**No ar (só o front-end):** https://idroxz777.github.io/iceland-confeitaria/
+
+A primeira versão era um único arquivo HTML, que está preservado em `legacy/`. Eu reconstruí o projeto nessa arquitetura, separando o front, a API e o cálculo de preço, e configurei o CI e o deploy.
 
 ## Arquitetura
 
